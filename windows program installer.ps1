@@ -7,21 +7,22 @@ choco install choco-upgrade-all-at-startup -y
 #default
 choco install firefox -y
 choco install googlechrome -y
-choco install tor-browser
+choco install tor-browser -y
 
 choco install teamviewer -y
 choco install 7zip.install -y
+choco install winrar -y
 choco install notepadplusplus.install -y
 choco install keepass -y
 choco install vlc -y
+choco install calibre -y
 
 choco install geforce-experience -y
 choco install discord -y
 choco install steam -y
 
-choco install whatsapp -y
 choco install spotify -y
-choco install telegram -y
+choco install telegram
 choco install adobereader -y
 
 choco install google-drive-file-stream -y
@@ -29,8 +30,11 @@ choco install citrix-workspace -y
 choco install mobaxterm -y
 choco install autohotkey -y
 choco install greenshot -y
+choco install microsoft-teams.install -y
+choco install paint.net -y
+choco install treesizefree -y
+choco install wireshark -y
 https://dynamictelecom.nl/telefonie/apps-en-software/i-am/
-
 
 #browser
 choco install opera
