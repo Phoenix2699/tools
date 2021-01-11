@@ -13,6 +13,7 @@ choco install teamviewer -y
 choco install 7zip.install -y
 choco install notepadplusplus.install -y
 choco install keepass -y
+choco install vlc -y
 
 choco install geforce-experience -y
 choco install discord -y
