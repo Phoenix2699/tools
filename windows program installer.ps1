@@ -16,6 +16,7 @@ choco install notepadplusplus.install -y
 choco install keepass -y
 choco install vlc -y
 choco install calibre -y
+choco install totalcommander -y
 
 choco install geforce-experience -y
 choco install discord -y
